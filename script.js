@@ -8,7 +8,7 @@ $(".item").hover(
   },
   function () {
     $(this).removeClass('hover');
-    console.log(this + 'Unhovered!');
+    console.log('Unhovered!');
   }
 );
 
@@ -36,19 +36,4 @@ $(".item").hover(
                 }
             }); 
         });
-}
-
-    /*
-        //  Shop Mimicing Functionality
-        //  Define variables
-        //  Press button moves cartValue up 1
-        //  Press a clear button that resets the value
-        //  Needs to work consistently across all page views
-    */
-// localStorage.cartValue = 1;
-// console.log('cartValue: ' + cartValue);
-var cartValue = 12;
-function addItem(){
-	localStorage.setItem(cartValue, 1);
-	console.log(localStorage.key(0));
 }

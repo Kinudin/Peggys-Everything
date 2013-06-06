@@ -151,14 +151,12 @@ nav a {	text-decoration: none;
 
 
 
-.prodImage{
-	float: left;
-	/*margin-top: 100px;*/
+.productImage{
+	float: right;
+	width: 300px;
 }
 
-.prodImage img {
-	margin-left: 50px;
-}
+
 
 .shopPage {
 	float: left;
@@ -215,7 +213,6 @@ nav a {	text-decoration: none;
 
 .caption {
 	font-size: .75em;
-	/*text-align: justify;*/
 	margin-top: -5px;
 	line-height: .85em;
 	font-weight: 400;
@@ -226,7 +223,7 @@ nav a {	text-decoration: none;
 	padding:2px 10px 10px 10px;
 }
 
-.rightColumn{
+.rightColumn {
 	float: right;
 	/*width: 250px;*/
 }
