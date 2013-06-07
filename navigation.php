@@ -15,8 +15,8 @@
 			<li><a href="customorder.php">Custom Order</a></li>
 			<li><a href="process.php">Process</a></li>
 			<li><a href="lesson.php">Lesson</a></li>
-			<li><a href="about.php">About</a></li>
-			<li><a href="enviro.php">Environmental Awareness</a></li>
+			<!-- <li><a href="about.php">About</a></li> -->
+			<!-- <li><a href="enviro.php">Environmental Awareness</a></li> -->
 			<li><a href="contact.php">Contact</a></li>
 			<li><a href="index.php"><img src="images/callbox.jpg" alt="" height="30px"></a></li>
 		</ul>
