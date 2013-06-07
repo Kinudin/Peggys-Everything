@@ -10,15 +10,10 @@
 	<script src="jquery.js"></script>
 </head>
 <body>
-		<div class="tagLine">
-		<h1>Peggy's Everything</h1>
-		<h6>Your world is beautiful, carry it.</h6>
-	</div>
-
 	<?
 	include 'navigation.php';
 	?>
-	<div class="container" id="environment">
+	<div class="container">
 		<div class="leftColumn">
 				
 				<h3> 100% Organic Material</h3>
